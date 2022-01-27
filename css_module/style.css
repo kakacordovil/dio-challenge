@@ -1,6 +1,8 @@
 body {
     background: #fafaff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 900px;
+    margin: auto;
 }
 .profile_pic{
     border: 1px solid #cfcfcf;
@@ -40,6 +42,7 @@ a {
 
 .post_img {
     margin-bottom: 15px;
+    width: 100%;
 }
 
 .contact_list {
